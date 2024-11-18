@@ -1,2 +1,3 @@
-# Registro-de-notas
-Registro de notas
+git add .
+git commit -m "Primer commit: subiendo archivos iniciales"
+git push origin main
